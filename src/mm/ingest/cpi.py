@@ -1,0 +1,1 @@
+"""Fetch U.S. CPI YoY (e.g., FRED CPIAUCSL YoY)."""

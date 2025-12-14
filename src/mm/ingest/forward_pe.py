@@ -1,0 +1,1 @@
+"""Fetch S&P 500 forward P/E (source-dependent)."""

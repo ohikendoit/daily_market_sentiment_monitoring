@@ -1,0 +1,1 @@
+"""RSI(14), Bollinger(20,2σ), volume vs 20D avg."""

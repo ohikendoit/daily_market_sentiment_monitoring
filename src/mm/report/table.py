@@ -1,0 +1,1 @@
+"""Build the unified KPI table with ↑/↓ formatting."""

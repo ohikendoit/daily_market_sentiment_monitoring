@@ -1,0 +1,1 @@
+"""Earnings yield (1/PE) and real earnings yield (EY - CPI YoY)."""

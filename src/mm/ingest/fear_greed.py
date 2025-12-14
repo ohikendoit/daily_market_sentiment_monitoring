@@ -1,0 +1,1 @@
+"""Fetch CNN Fear & Greed Index."""

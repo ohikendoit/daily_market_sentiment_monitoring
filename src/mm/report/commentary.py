@@ -1,0 +1,1 @@
+"""Generate 1–2 sentence commentary (rule-based)."""

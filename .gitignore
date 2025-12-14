@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist/
+.build/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+
+# Outputs (keep if you want, adjust as needed)
+data/raw/
+data/processed/
+reports/
+
+# Virtual env
+.venv/
+venv/
+market_env/
+
+# Environment variables
+.env
+
+# Local data
+data/*.duckdb
+data/*.db
+data/*.parquet
+data/*.csv
+
+# OS
+.DS_Store
