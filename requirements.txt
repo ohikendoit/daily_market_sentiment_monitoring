@@ -1,0 +1,3 @@
+duckdb
+fear-and-greed
+yfinance
